@@ -10,3 +10,9 @@ This repository has the following content:
 - THR-100-050 : Slit 5 mm. Check THR-100-010 for more details.
 - THR-101-110 : Adapter between Thorlabs Cage 30 mm, Thorlabs SM1 external tube and Hamamatsu detectors with heatsink of the A3179 series.
 - Thorlabs IP250-BV P/N-type laser diodes : Modification of the IP250-BV laser diode drive board to operate with n-type and p-type laser diodes.
+
+---
+
+Content in other repositories compatible with Thorlabs parts:
+- JAI repository, JAI-001-010 : Base adapter between JAI camera BM-141GE / BB-141GE with optical posts with M4 or M6 threads.
+- JAI repository, JAI-001-020 : Front plate adapeter between JAI camera BM-141GE / BB-141GE with optical posts with M4 thread, Thorlabs Cage 30 mm and Thorlabs SM1 tube.
