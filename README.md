@@ -14,6 +14,7 @@ This repository has the following content:
 - THR-102-050 : Fixed aperture 5 mm diameter compatible with Thorlabs Cage 30 mm system, Thorlabs SM1 external tube and optical posts with M4 thread.
 - THR-102-060 : Fixed aperture 6 mm diameter. Check THR-102-050 for more details.
 - THR-102-070 : Fixed aperture 7 mm diameter. Check THR-102-050 for more details.
+- Thorlabs Camera Class: A Matlab class was developed to get images from Thorlabs cameras compatible with uc480DotNet.dll. This class was tested with a single Thorlabs DCC1545M camera and with ThorCam 64-bits. Nonetheless, this class is designed to operate with other Thorlabs cameras of the same family.
 - Thorlabs IP250-BV P/N-type laser diodes : Modification of the IP250-BV laser diode drive board to operate with n-type and p-type laser diodes.
 
 ---
