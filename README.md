@@ -8,6 +8,8 @@ This repository has the following content:
 - THR-100-020 : Slit 2 mm. Check THR-100-010 for more details.
 - THR-100-030 : Slit 3 mm. Check THR-100-010 for more details.
 - THR-100-050 : Slit 5 mm. Check THR-100-010 for more details.
+- THR-101-010 : Adapter, with fixed aperture 5 mm diameter, between Thorlabs Cage 30 mm, Thorlabs SM1 external tube, Thorlabs S05 external tube, optical posts with set screws M4 and Hamamatsu detectors with M2 screw (4 mm deep) grit by 14 x 14 mm. The adapter fits with a width range of photomultipliers (PTM) from Hamamatsu such as the series H9656, H10722, H10723, H11902, H11903, H14603, H16146, H14600/H14601, H14950, H14951, H14990,
+H16200, H16201, H16204, H10720, H10721, H11526, H11706, H11900, H11901, H12056, H14600, H14601, H12386, H10682, H11890, H11890, ...
 - THR-101-110 : Adapter between Thorlabs Cage 30 mm, Thorlabs SM1 external tube and Hamamatsu detectors with heatsink of the A3179 series.
 - THR-102-030 : Fixed aperture 3 mm diameter. Check THR-102-050 for more details.
 - THR-102-040 : Fixed aperture 4 mm diameter. Check THR-102-050 for more details.
